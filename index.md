@@ -10,7 +10,6 @@ Hi, I'm Dejan Stojadinović ! Please check my repos !
 
 | Project Name    | Web Page                                                | Link     |
 |-----------------|---------------------------------------------------------|----------|
-| mtc-infra-qa    | No Page  | [GitHub](https://github.com/dejan2609/mtc-infra-qa.git) |
 ---
 
 :fuelpump: 2025 Dejan Stojadinović
