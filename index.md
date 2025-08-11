@@ -10,8 +10,6 @@ Hi, I'm Dejan Stojadinović ! Please check my repos !
 
 | Project Name    | Web Page                                                | Link     |
 |-----------------|---------------------------------------------------------|----------|
-| mtc-backend-qa    | No Page  | [GitHub](https://github.com/dejan2609/mtc-backend-qa.git) |
-| mtc-frontend-qa    | No Page  | [GitHub](https://github.com/dejan2609/mtc-frontend-qa.git) |
 | mtc-infra-qa    | No Page  | [GitHub](https://github.com/dejan2609/mtc-infra-qa.git) |
 ---
 
